@@ -9,6 +9,7 @@ import Register from './routes/Register';
 import './App.css';
 
 // https://www.youtube.com/watch?v=xKs2IZZya7c&ab_channel=CodingWithDawid
+// stop at 53:44
 function App() {
   return (
     <Routes>
